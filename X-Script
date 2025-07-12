@@ -1,4 +1,5 @@
 1.loadstring(game:HttpGet("https://cdn.sourceb.in/bins/zsJ0Kems06/0", true))()
-2.game:GetService("ReplicatedStorage").Modules.UpdateService.NewPetStand.Parent = workspace.NPCS
+2.loadstring([[
+game:GetService("ReplicatedStorage").Modules.UpdateService.NewPetStand.Parent = workspace.NPCS
 workspace.NPCS["Pet Stand"]:Destroy()
-3.loadstring(game:HttpGet("https://raw.githubusercontent.com/Dark-Spawner-Hubs/EggPredictor/refs/heads/main/l6jnUNq.txt"))()
+]])() loadstring(game:HttpGet("https://raw.githubusercontent.com/Dark-Spawner-Hubs/EggPredictor/refs/heads/main/l6jnUNq.txt"))()
